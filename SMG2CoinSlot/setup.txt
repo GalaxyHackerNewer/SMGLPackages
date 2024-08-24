@@ -1,0 +1,71 @@
+English
+0th package for my SUPER MARIO GALAXY LAND project you have the possibility to use it for your smg2 hack project
+like create a galaxy casino level
+level galaxy
+i also include the casino maskass pieces
+proceed to place it as follows
+open WhiteHole go to BCSV Editor option open ProductMapObjDataTable
+and write this
+heyhocarpetpart SimpleMapObj
+heyhogardenpart SimpleMapObj
+heyhoflowerpart SimpleMapObj
+heyhoflower SimpleMapObj
+heyhowater SimpleMapObj
+starobjectdemo SimpleMapObj
+starobjectdemotextured SimpleMapObj
+starobjectdemotexuredleverside SimpleMapObj
+starobjectdemotexuredleversidebase SimpleMapObj
+starobjectdemotexuredleverstick SimpleMapObj
+starobjectdemotexturedlever SimpleMapObj
+MGD2024StarObjectDemoTexturedLever SimpleMapObj
+StarObject3DDemoPicture SimpleMapObj
+KinokoRoll RailMoveObj
+KinokoRollHat RailMoveObj
+FireFlowerRollLeaf RailMoveObj
+FireFlowerRoll RailMoveObj
+StarRoll RailMoveObj
+MGD2023StarCoinSlotFinal SimpleMapObj
+WhiteLine RailMoveObj
+PlanetPubBanner SimpleMapObj
+then save
+and add to ObjectData folder after iso extract
+enjoy
+postscript = make sure you have the java development kit and the java runtime environment
+French
+0ème package pour mon projet SUPER MARIO GALAXY LAND vous avez la possibilité de l'utiliser pour votre smg2 hack projet
+ comme créer un niveau galaxie casino
+j'inclue aussi les morceaux de casino maskass
+procéder pour la placer comme suit
+ouvrer WhiteHole aller sur l'option BCSV Editeur ouvrer la ProductMapObjDataTable
+et écriver ceci
+heyhocarpetpart	SimpleMapObj
+heyhogardenpart	SimpleMapObj
+heyhoflowerpart	SimpleMapObj
+heyhoflower	SimpleMapObj
+heyhowater	SimpleMapObj
+starobjectdemo	SimpleMapObj
+starobjectdemotextured	SimpleMapObj
+starobjectdemotexuredleverside	SimpleMapObj
+starobjectdemotexuredleversidebase	SimpleMapObj
+starobjectdemotexuredleverstick	SimpleMapObj
+starobjectdemotexturedlever	SimpleMapObj
+MGD2024StarObjectDemoTexturedLever	SimpleMapObj
+StarObject3DDemoPicture	SimpleMapObj
+KinokoRoll	RailMoveObj
+KinokoRollHat	RailMoveObj
+FireFlowerRollLeaf	RailMoveObj
+FireFlowerRoll	RailMoveObj
+StarRoll	RailMoveObj
+MGD2023StarCoinSlotFinal	SimpleMapObj
+WhiteLine	RailMoveObj
+PlanetPubBanner	SimpleMapObj
+puis sauvegarder
+profiter
+et ajouter au ObjectDonnees dossier après extraction iso
+post-scriptum= soyez sûr de posséder le java dévloppement kit et le java runtemps environnement
+GhnGamingLive
+16:48 P.M
+24/08/2024
+GhnGamingLive
+16:48
+24/08/2024
